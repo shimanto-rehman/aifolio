@@ -205,7 +205,3 @@ In Claude Code, switch between them using the `/effort` command. In OpenCode, Ma
 *   OpenCode Docs: [opencode.ai/docs](https://opencode.ai/docs)
 *   GLM 5.2 Weights (HuggingFace): [huggingface.co/zai-org](https://huggingface.co/zai-org)
 *   OpenCode Desktop App: [opencode.ai/download](https://opencode.ai/download)
-
----
-
-*Text automatically formatted with [Format Magic](https://formatmagic.ai)*
